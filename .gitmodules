@@ -1,0 +1,27 @@
+[submodule "freeimage"]
+	path = freeimage
+	url = ../freeimage
+[submodule "jpeg"]
+	path = jpeg
+	url = ../jpeg
+[submodule "jxr"]
+	path = jxr
+	url = ../jxr
+[submodule "openexr"]
+	path = openexr
+	url = ../openexr
+[submodule "openjpeg"]
+	path = openjpeg
+	url = ../openjpeg
+[submodule "png"]
+	path = png
+	url = ../png
+[submodule "rawlite"]
+	path = rawlite
+	url = ../rawlite
+[submodule "tiff4"]
+	path = tiff4
+	url = ../tiff4
+[submodule "webp"]
+	path = webp
+	url = ../webp
